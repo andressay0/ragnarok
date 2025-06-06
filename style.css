@@ -24,3 +24,10 @@ h2 {color: #D937ED;
 .pontos-de-atributos {
     justify-content: space-between; 
 }
+#img-sicario {
+        filter: drop-shadow(2px 2px 2px purple);
+        text-align:left;
+        width:40%;
+        height:40%;
+        float: left;
+}
